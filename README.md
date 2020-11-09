@@ -7,10 +7,13 @@ Fitting TKTD models with Neural ODE
 ## Some Examples:
 
 https://sebastiancallh.github.io/post/neural-ode-weather-forecast/
+
 https://julialang.org/blog/2019/01/fluxdiffeq/
 
-## Som Videos about:
+## Some Videos about:
+
 https://www.stochasticlifestyle.com/universal-differential-equations-for-scientific-machine-learning-video/
 
 ## More Theoretical:
+
 https://arxiv.org/abs/1806.07366
